@@ -18,7 +18,7 @@ It uses Docker Compose to run the PostgreSQL database and the FastAPI applicatio
 1.  **Navigate to Directory:**
     *   Open your terminal in this directory:
         ```bash
-        cd adk_repro_example
+        cd adk-streaming-tools-unique-violation-events-repro
         ```
     *   **Set GCP Project/Location:** Edit the `.env` file and set your `GOOGLE_CLOUD_PROJECT` and `GOOGLE_CLOUD_LOCATION`.
 
